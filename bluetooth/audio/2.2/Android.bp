@@ -2,7 +2,7 @@
 
 hidl_interface {
     name: "vendor.mediatek.hardware.bluetooth.audio@2.2",
-    root: "vendor.mediatek.hardware.bluetooth",
+    root: "vendor.mediatek.hardware",
     system_ext_specific: true,
     srcs: [
         "types.hal",
